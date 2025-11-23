@@ -49,5 +49,3 @@ To make the system realistic, *15 books are preloaded* into the library.
   - Simple modular design
 
 ---
-
-## 📂 Project Structure
